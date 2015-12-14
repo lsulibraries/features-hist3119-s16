@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the LSU CAS feature.
+ */
+
+include_once 'lsu_cas.features.inc';
